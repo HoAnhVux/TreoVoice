@@ -11,5 +11,8 @@
     "express": "^4.18.2",
     "opusscript": "^0.0.8",
     "tweetnacl": "^1.0.3"
+  },
+  "engines": {
+    "node": ">=20.18.1"
   }
 }
